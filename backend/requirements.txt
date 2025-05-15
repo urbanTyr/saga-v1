@@ -1,0 +1,5 @@
+Flask==3.0.3
+aiml==0.9.2
+biopython==1.83
+flask-cors
+python-dotenv

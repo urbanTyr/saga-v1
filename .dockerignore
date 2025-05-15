@@ -1,0 +1,20 @@
+# Node & frontend junk
+node_modules
+dist
+.vite
+.vscode
+
+# Python
+__pycache__/
+*.pyc
+
+# Git and metadata
+.git
+.gitignore
+Dockerfile
+.env
+.env.*
+
+# OS junk
+.DS_Store
+Thumbs.db
